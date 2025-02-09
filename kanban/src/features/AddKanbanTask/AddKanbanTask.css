@@ -1,0 +1,15 @@
+.task__form {
+  margin-bottom: 0.5rem;
+}
+
+.task-input {
+  padding: 10px;
+  border: 1px solid #04436d;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.form-buttons {
+  display: flex;
+  gap: 35px;
+}
